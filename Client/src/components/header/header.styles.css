@@ -1,0 +1,62 @@
+body {
+    font-family: "PT Sans";
+}
+
+.header {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.header__brand {
+    padding-left: 100px;
+    display: flex;
+    justify-self: center;
+    font-size: 40px;
+    font-weight: bold;
+    flex: 1;
+    cursor: pointer;
+}
+
+.header__menu {
+    font-size: 28px;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 40%;
+    list-style-type: none;
+    padding-left: 0;
+    justify-content: space-evenly;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.li_Admin:hover {
+    text-decoration: underline ;
+    cursor: pointer;
+}
+
+.li_shop:hover {
+    text-decoration: underline ;
+    cursor: pointer;
+    height: 1000%;
+}
+
+.li_about:hover {
+    text-decoration: underline ;
+    cursor: pointer;
+}
+
+.li_contacts:hover {
+    text-decoration: underline ;
+    cursor: pointer;
+}
+
+.menu__images {
+    padding-top: 10px;
+    cursor: pointer;
+}
+

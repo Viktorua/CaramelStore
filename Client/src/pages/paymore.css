@@ -1,0 +1,38 @@
+.mainblock{
+    margin-top: 100px;
+    /* width: 320px; */
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
+.payblock{
+    /* margin-top: 380px;
+    width: 25%;
+    margin-left: 100px; */
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+.modalblock{
+    margin-top: 50px;
+}
+.back{
+    margin-top: 150px;
+    width: 20%;
+    margin-left: 290px;
+}
+.save{
+    margin-top: -36px;
+    width: 20%;
+    margin-left: 690px;
+}
+.telephone{
+    margin-top: 25px;
+}
+.telephoneNamber{
+    font-weight: 600;
+    font-size: 20px;
+    margin-top: 5px;
+}

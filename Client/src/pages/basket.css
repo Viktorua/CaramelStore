@@ -1,0 +1,31 @@
+.basket-page {
+    margin-left: 500px;
+    font-size: 30px;
+    width: 22%;
+    padding-top: 250px;
+    text-align: center;
+    
+}
+
+.bas {
+    padding-top: 250px;
+    font-size: 20px;
+    margin-left: 35px;
+    font-size: 25px;
+    width: 19%;
+    text-align: center;
+}
+
+.butt {
+    font-size: 20px;
+    width: 90%;
+    padding-top: 10px;
+
+}
+.callBack{
+    font-size: 50px;
+    margin-top: -800px;
+    margin-left: 100px;
+    width: 40px;
+ height: 40px;
+}

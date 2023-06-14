@@ -1,0 +1,48 @@
+.main__images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+.image-left {
+    border: 1px solid black;
+    height: 724px;
+    width: 405px;
+    background-image: url("../../images/main_image1.svg");
+    background-size: cover;
+}
+
+.image-right {
+    height: 724px;
+    width: 500px;
+    background-image: url("../../images/main_image2.svg");
+    background-size: cover;
+    border: 1px solid black;
+    border-left: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.image-right__text {
+    margin-left: -100px;
+    padding-top: 265px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.image-right__button {
+    background-color: white;
+    border-radius: 45px;
+    border: 1px solid black;
+    width: 145px;
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size: 29px;
+}
+
+.image-right__button:hover {
+    background-color: gainsboro;
+    cursor: pointer;
+}

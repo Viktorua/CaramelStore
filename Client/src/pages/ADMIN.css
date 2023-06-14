@@ -1,0 +1,25 @@
+.start {
+    display: none;
+    margin-top: 300px;
+    margin-left: 15px;
+    font-size: 95px;
+    width: 25%
+}
+
+.product{
+    margin-top: 15px;
+    margin-left: 1px;
+    font-size: 45px;
+    width: 2%
+}
+
+.img{
+    width: 25px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 1px;
+    text-align: center;
+    font-size: 5px;
+    width: 23%
+}
+

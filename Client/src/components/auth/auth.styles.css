@@ -1,0 +1,37 @@
+.auth__text {
+    display: flex;
+    justify-content: center;
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 140px;
+} 
+
+.switcher {
+    font-size: 20px;
+    display: grid;
+    grid: auto / auto-flow;
+    padding: 3px;
+    margin-bottom: 24px;
+    background: #eee;
+    border-radius: 10px;
+    width: 30%;
+    height: 60px;
+    margin: 100px auto;
+}
+
+a {
+    padding-top: 13px;
+    justify-content: center;
+    display: block;
+    color: #000;
+    text-align: center;
+    line-height: 32px;
+    text-decoration: none;
+}
+
+.active {
+    background: #fff;
+    font-weight: 500;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}

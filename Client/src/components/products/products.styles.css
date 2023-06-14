@@ -1,0 +1,36 @@
+
+.products__pair__item_bus{
+    width: 565px;
+    height: 500px;
+    border: 1px solid black;
+    /* display: flex; */
+    flex-direction: column;
+    margin-top: 30px;
+    margin-left: 250px;
+
+}
+
+.products__pair__item_butt{
+    margin-top: -350px;
+    width: 15%;
+    margin-left: -380px;
+    /* margin-right: 200px; */
+    display: flex;
+   
+}
+
+.basket_price{
+    position: fixed;
+top: 150px;
+left: 1000px;
+right: 0px;
+font-size: 30px;
+color: rgb(6, 37, 24);
+border: 1px solid black;
+width: 30%;
+}
+
+.more{
+margin-top: 80px;
+margin-left: 180px;
+}
